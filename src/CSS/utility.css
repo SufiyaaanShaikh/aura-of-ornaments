@@ -1,0 +1,86 @@
+h1 {
+    line-height: 70px;
+    color: white;
+    font-size: 54px;
+    font-weight: 400;
+}
+
+h2 {
+    width: 630px;
+    margin: 0 auto;
+    line-height: 70px;
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3 {
+    line-height: 29px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #000;
+}
+
+h4 {
+    line-height: 42px;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.para {
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 26px;
+    color: white;
+}
+
+.padding {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.btn {
+    width: 140px;
+    height: 48px;
+    font-size: 17px;
+    border-radius: 5px;
+    background: #fff;
+    text-align: center;
+    place-items: center;
+    place-content: center;
+}
+
+.btn a {
+    color: #000;
+}
+
+.btn:hover {
+    box-shadow: -1px -1px 1px rgba(255, 252, 252, 0.8), 1px 1px 1px rgba(255, 255, 255, 0.915);
+    /* background: #000; */
+    /* border: 1px solid rgba(125, 130, 108, 1); */
+}
+
+/* .btn:hover a{
+    color: #fff;
+} */
+
+.invert {
+    filter: invert(1);
+}
+
+.section-style {
+    margin: 100px 100px 0 100px;
+}
+
+.bg-white{
+    background: #fff1e6;
+    background: #fff1e696;
+    background: #fff;
+}
+.bg-black
+{
+    background: #0B051F;
+}
